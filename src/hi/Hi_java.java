@@ -8,6 +8,7 @@ public class Hi_java {
 		System.out.println("이건 뭥미");
 		
 		System.out.println("수정완료");
+		System.out.println("이름");
 	}
 
 }
